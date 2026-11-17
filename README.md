@@ -74,37 +74,55 @@ An Industrial Internet of Things application designed to monitor sensor telemetr
 
 **Technologies:** C#, ASP.NET Core, React, JavaScript.
 
-### 2. MedicalBooking
+### 2. MCC Construction – Mobile Management System
+
+A native Android application developed as part of the **Syntax Squad INSY7315 group project**. MCC Construction helps coordinate construction projects by connecting workers, managers and administrators through a role-based mobile platform.
+
+**Key features:**
+- Role-based access for workers, managers and administrators.
+- Project task creation, assignment and status tracking.
+- Worker attendance with clock-in and clock-out.
+- Daily reports, safety inspections and incident reporting.
+- Proof-of-work photo attachments and private document storage.
+- Inventory management, messaging and notifications.
+- Live updates using Supabase Realtime.
+- Encrypted offline message queuing and adaptive Android layouts.
+
+**Technologies:** Kotlin, Android, Jetpack Compose, Material 3, Supabase Auth, PostgreSQL, PostgREST, Supabase Realtime, SQL, Coil.
+
+**Repository:** [Syntax Squad – MCC Construction](https://github.com/Thershlin-Ramsamy/syntax-squad-insy7315)
+
+### 3. MedicalBooking
 
 A medical appointment booking application designed to simplify the process of managing medical appointments.
 
 **Technologies:** C#, .NET.
 
-### 3. Pennywise
+### 4. Pennywise
 
 A personal finance application focused on helping users manage and track their finances.
 
 **Technologies:** C#, .NET.
 
-### 4. Cybersecurity Awareness Chatbot
+### 5. Cybersecurity Awareness Chatbot
 
 An interactive chatbot designed to educate users about cybersecurity awareness and safe online practices.
 
 **Technologies:** C#, WPF.
 
-### 5. CharityApp
+### 6. CharityApp
 
 A charity-focused application incorporating cloud-based storage and authentication functionality.
 
 **Technologies:** C#, Azure Tables, Azure Blob Storage.
 
-### 6. GLMS TechMove
+### 7. GLMS TechMove
 
 A web API project developed using a service-oriented architecture approach.
 
 **Technologies:** .NET Web API.
 
-### 7. PulseVote
+### 8. PulseVote
 
 A voting application developed around a modern web technology stack.
 
