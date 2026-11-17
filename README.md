@@ -118,7 +118,6 @@ A voting application developed around a modern web technology stack.
 
 Explore my GitHub projects:
 
-- [cloud-icetask-4](https://github.com/ariananazir/cloud-icetask-4) – Cloud computing practical task.
 - [View all repositories](https://github.com/ariananazir?tab=repositories).
 
 ---
